@@ -1,5 +1,4 @@
-For the thirty years of marriage for my parents.
-My dad programmed a console application in the 1980's walking with my mom.
-Now i made "Walking with Dianne as a service"
+For the thirty years of marriage of my parents, i made the application that my dad made for my mom in the 1980's.
+I didn't make it as a console application, but rather as an "as a service" variant.
 
-Congrats.
+ng build --prod --output-path docs
